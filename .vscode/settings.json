@@ -1,0 +1,6 @@
+{
+    "cmake.debugConfig": {
+        "console": "externalTerminal",
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/."
+}

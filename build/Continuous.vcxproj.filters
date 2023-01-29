@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Juanma\source\repos\Escape From Collapse\build\CMakeFiles\1d8c5ae5ccdea2dc02e1845fbe52fb3f\Continuous.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Juanma\source\repos\Escape From Collapse\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Juanma\source\repos\Escape From Collapse\build\CMakeFiles\Continuous" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{29C9BBD6-CD2C-3EC9-89E6-95FA03981CE0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

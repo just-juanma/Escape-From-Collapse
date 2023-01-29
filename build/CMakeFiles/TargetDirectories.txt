@@ -1,0 +1,5 @@
+C:/Users/Juanma/source/repos/Escape From Collapse/build/CMakeFiles/PACKAGE.dir
+C:/Users/Juanma/source/repos/Escape From Collapse/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Juanma/source/repos/Escape From Collapse/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Juanma/source/repos/Escape From Collapse/build/src/CMakeFiles/Escape_From_Collapse.dir
+C:/Users/Juanma/source/repos/Escape From Collapse/build/src/CMakeFiles/PACKAGE.dir

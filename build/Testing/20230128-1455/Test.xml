@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-MSBuild"
+	BuildStamp="20230128-1455-Experimental"
+	Name="DESKTOP-1E4AEN4"
+	Generator="ctest-3.24.202208181-MSVC_2"
+	CompilerName="C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.34.31933/bin/Hostx86/x86/cl.exe"
+	CompilerVersion="19.34.31933.0"
+	OSName="Windows"
+	Hostname="DESKTOP-1E4AEN4"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19044)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="14"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="18696"
+	TotalPhysicalMemory="16264"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3810"
+	>
+	<Testing>
+		<StartDateTime>Jan 28 12:05 Argentina Standard Time</StartDateTime>
+		<StartTestTime>1674918330</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jan 28 12:05 Argentina Standard Time</EndDateTime>
+		<EndTestTime>1674918330</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
