@@ -1,4 +1,4 @@
-# Escape From Collapse
+# 💥 Escape From Collapse
 By Juan Manuel González Kapnik. Idea taken from Universidad Favaloro, Introduction to Networks and Internet (2021).
 ## 📋 Table of contents
 1. [Proyect Description](#pdescription)
