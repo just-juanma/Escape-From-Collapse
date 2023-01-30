@@ -6,6 +6,7 @@ By Juan Manuel González Kapnik. Idea taken from Universidad Favaloro, Introduct
 3. [How to Install and Run the Project](#howtorun)
 4. [How to Use the Project](#howtouse)
 5. [License](#license)
+6. [How to Play](https://github.com/just-juanma/Escape-From-Collapse/blob/master/howtoplay/howtoplay.md)
 
 ## 🚀 Project Description <a name="pdescription"></a>
 This project has as main objective to demonstrate my knowledge in C language and the CMake tool over the objective of the program itself. However, in this description we will deal with the objective of the program itself.
