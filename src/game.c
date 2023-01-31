@@ -45,8 +45,7 @@ bool playersAbleToPlay(bool *IA, player_t *loggedList, player_t **inGameList, pl
 uint16_t **generateBoard(uint16_t *boardSize)
 {
     uint8_t i, j;
-    // *boardSize = rand() % 20 + 6;                              // random between 6 and 25
-    *boardSize = rand() % 16 + 25;                              // random between 50 and 100
+    boardSize = rand() % 20 + 6;                              // random between 6 and 25
     uint16_t **board = calloc(*boardSize, sizeof(uint16_t *)); // row (or column) dinamic memory request
     for (i = 0; i < *boardSize; i++)                           // for each column (or row), dinamic memory request (see line 55)
     {
