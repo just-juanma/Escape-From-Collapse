@@ -37,5 +37,7 @@ To use the project, we simply have to run it. Once inside, it is quite interacti
 ## ⚠️ Considerations <a name="considerations"></a>
 There may be errors in the memory stack during the board generations. in case of any error at the time of board generation, restart the game. I will be working on a possible solution. Thanks for your understanding.
 
+In case of wrong display of the board, try playing in full window.
+
 ## ©️ License <a name="license"></a>
 Escape From Collapse is licensed under the [GNU General Public License v3.0](https://github.com/just-juanma/Escape-From-Collapse/blob/master/LICENSE)
