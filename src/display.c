@@ -170,7 +170,8 @@ void menuDisplay(player_t **registeredList)
             }
             break;
         case 4:
-            printf("A board is generated, and the objective is to reach the opposite side of it before your opponents. However, every turn a square collapses (you can not access) randomly. You must plan a strategy in each game and be lucky with the collapses to win\n");
+            printf("If this is the first time you play, you must be registered to start. When you register the program will let you log in. However, if you run the program again, you must log in first.\nWhen you select the option to play (option number 3), you must choose how many players you want to play with (you can play with up to 4 players). In case you are alone and want to play against the artificial intelligence, you must enter that you only want to play with one player.\nThe objective is to reach the other side of the map. That is, to the other end.\nFor example, if we are player 1, we must reach the row where player 2 is to win. However, if we are player 2, we must reach the row where player 1 is located\nEach turn a locker collapses, and you cannot access that one. Nor can you access to where there is a player, nor outside the board (obviously).\nRemember that you can give up at any time. However, it is not recommended since you can collapse boxes favorably in the last moves, and thus have a chance to win.\n");
+            cleanInput();
             sleep();
             break;
         case 5:
@@ -205,6 +206,8 @@ void menuDisplay(player_t **registeredList)
         }
     }
     free(foo);
+    free(inGameList);
+    free(*registeredList);
     free(loggedInList);
 }
 
